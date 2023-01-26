@@ -1,6 +1,6 @@
 # Welcome to this repo
 
-You can install the required code base using pip
+You can install the required code base using pip. After unzipping everythink.... .
 
 ### Installation
 
@@ -25,4 +25,4 @@ or to compare one could run Trades using
 rbibm task=lotka_volterra model=maf_pyro defense=l2pgdTrades_rKL
 ```
 
-The default for multirun is slurm-submitit, which settings are likely incompatible with your system. Thus one could switch to the local launcher.
+The default for multirun is slurm-submitit, which settings are likely incompatible with your system. Thus one could switch to the local launcher. Full dataset is not contained due to memory limitations in repos.
